@@ -1,5 +1,3 @@
-pip install snscrape
-
 import snscrape.modules.twitter as sntwitter
 
 # Function to get tweet timestamps
